@@ -1,4 +1,4 @@
-.First__house__roof{
+.first__house__roof{
 	left: 50px;
 	width: 1px;
 	height: 1px;
@@ -11,7 +11,7 @@
 	position: relative;
 }
 
-.First__house__wall{
+.first__house__wall{
 	width: 200px;
 	height: 200px;
 	left: 100px;
@@ -20,7 +20,7 @@
 	position: relative;
 }
 
-.First__house__first_window{
+.first__house__first_window{
 	width: 50px;
 	height: 50px;
 	left: 10px;
@@ -29,7 +29,7 @@
 	position: relative;
 }
 
-.First__house__second_window{
+.first__house__second_window{
 	width: 50px;
 	height: 50px;
 	left: 140px;
@@ -38,7 +38,7 @@
 	position: relative;
 }
 
-.First__house__door{
+.first__house__door{
 	width: 60px;
 	height: 80px;
 	left: 70px;
@@ -49,7 +49,7 @@
 
 
 
-.First__first_frame{
+.first__first_frame{
 	width: 50px;
 	height: 5px;
 	top: 25px;
@@ -57,7 +57,7 @@
 	position: relative;
 }
 
-.First__second_frame{
+.first__second_frame{
 	bottom: 5px;
 	width: 5px;
 	height: 50px;
@@ -66,7 +66,7 @@
 	position: relative;
 }
 
-.First__handle{
+.first__handle{
 	width: 10px;
 	height: 10px;
 	top: 40px;
@@ -78,7 +78,7 @@
 
 /*////////////////////////////////////////////////////////////////////*/
 
-.Second__house__roof{
+.second__house__roof{
 	left: 383px;
 	width: 1px;
 	height: 1px;
@@ -91,7 +91,7 @@
 	position: absolute;
 }
 
-.Second__house__wall{
+.second__house__wall{
 	width: 200px;
 	height: 200px;
 	left: 435px;
@@ -100,7 +100,7 @@
 	position: absolute;
 }
 
-.Second__house__first_window{
+.second__house__first_window{
 	width: 50px;
 	height: 50px;
 	left: 10px;
@@ -109,7 +109,7 @@
 	position: absolute;
 }
 
-.Second__house__second_window{
+.second__house__second_window{
 	width: 50px;
 	height: 50px;
 	left: 140px;
@@ -118,7 +118,7 @@
 	position: absolute;
 }
 
-.Second__house__door{
+.second__house__door{
 	width: 60px;
 	height: 80px;
 	left: 70px;
@@ -128,7 +128,7 @@
 }
 
 
-.Second__first_frame{
+.second__first_frame{
 	width: 50px;
 	height: 5px;
 	top: 25px;
@@ -136,7 +136,7 @@
 	position: absolute;
 }
 
-.Second__second_frame{
+.second__second_frame{
 	width: 5px;
 	height: 50px;
 	left: 22.5px;
@@ -144,7 +144,7 @@
 	position: absolute;
 }
 
-.Second__handle{
+.second__handle{
 	width: 10px;
 	height: 10px;
 	top: 40px;
@@ -157,7 +157,7 @@
 /*////////////////////////////////////////////////////////////////////*/
 
 
-.Third__house__roof{
+.third__house__roof{
 	margin-left: 700px;
 	margin-top: -600px;
 	width: 1px;
@@ -170,7 +170,7 @@
 	position: static;
 }
 
-.Third__house__wall{
+.third__house__wall{
 	width: 180px;
 	height: 180px;
 	margin-top: 0px;
@@ -180,7 +180,7 @@
 	padding: 10px;
 }
 
-.Third__house__first_window{
+.third__house__first_window{
 	width: 50px;
 	height: 50px;
 	margin-left: 0;
@@ -190,7 +190,7 @@
 	padding: 1px;
 }
 
-.Third__house__second_window{
+.third__house__second_window{
 	width: 50px;
 	height: 50px;
 	margin-left: 130px;
@@ -200,7 +200,7 @@
 	padding: 1px;
 }
 
-.Third__house__door{
+.third__house__door{
 	width: 60px;
 	height: 80px;
 	margin-top: 26px;
@@ -210,7 +210,7 @@
 	padding: 1px
 }
 
-.Third__first_frame{
+.third__first_frame{
 	width: 52px;
 	height: 5px;
 	margin-left: -1px;
@@ -219,7 +219,7 @@
 	position: static;
 }
 
-.Third__second_frame{
+.third__second_frame{
 	width: 5px;
 	height: 52px;
 	margin-top: -31px;
@@ -228,7 +228,7 @@
 	position: static;
 }
 
-.Third__handle{
+.third__handle{
 	width: 10px;
 	height: 10px;
 	margin-left: 40px;
@@ -239,7 +239,7 @@
 }
 /*////////////////////////////////////////////////////////////////////*/
 
-.Fourth__house__roof{
+.fourth__house__roof{
 	left: 58px;
 	width: 1px;
 	height: 1px;
@@ -252,7 +252,7 @@
 	position: fixed;
 }
 
-.Fourth__house__wall{
+.fourth__house__wall{
 	width: 200px;
 	height: 200px;
 	left: 108px;
@@ -261,7 +261,7 @@
 	position: fixed;
 }
 
-.Fourth__house__first_window{
+.fourth__house__first_window{
 	width: 50px;
 	height: 50px;
 	left: 118px;
@@ -270,7 +270,7 @@
 	position: fixed;
 }
 
-.Fourth__house__second_window{
+.fourth__house__second_window{
 	width: 50px;
 	height: 50px;
 	left: 248px;
@@ -279,7 +279,7 @@
 	position: fixed;
 }
 
-.Fourth__house__door{
+.fourth__house__door{
 	width: 60px;
 	height: 80px;
 	left: 175px;
@@ -289,7 +289,7 @@
 }
 
 
-.Fourth__first_frame{
+.fourth__first_frame{
 	width: 50px;
 	height: 5px;
 	top: 270px;
@@ -297,7 +297,7 @@
 	position: fixed;
 }
 
-.Fourth__second_frame{
+.fourth__second_frame{
 	width: 5px;
 	height: 50px;
 	left: 140.5px;
@@ -305,7 +305,7 @@
 	position: fixed;
 }
 
-.Fourth__second_frame_too{
+.fourth__second_frame_too{
 	width: 5px;
 	height: 50px;
 	left: 270.5px;
@@ -313,7 +313,7 @@
 	position: fixed;
 }
 
-.Fourth__handle{
+.fourth__handle{
 	width: 10px;
 	height: 10px;
 	top: 370px;
