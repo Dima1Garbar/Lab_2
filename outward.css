@@ -1,0 +1,323 @@
+.First__house__roof{
+	left: 50px;
+	width: 1px;
+	height: 1px;
+	top: 500px;
+	border-top: 150px solid white;
+	border-right: 150px solid white;
+	border-left: 150px solid white;
+	border-bottom: 150px solid #ACACC4;
+	background: white;
+	position: relative;
+}
+
+.First__house__wall{
+	width: 200px;
+	height: 200px;
+	left: 100px;
+	top: 500px;
+	background: #2E3172;
+	position: relative;
+}
+
+.First__house__first_window{
+	width: 50px;
+	height: 50px;
+	left: 10px;
+	top: 40px;
+	background: yellow;
+	position: relative;
+}
+
+.First__house__second_window{
+	width: 50px;
+	height: 50px;
+	left: 140px;
+	bottom: 10px;
+	background: yellow;
+	position: relative;
+}
+
+.First__house__door{
+	width: 60px;
+	height: 80px;
+	left: 70px;
+	top: 20px;
+	background: #6D3517;
+	position: relative;
+}
+
+
+
+.First__first_frame{
+	width: 50px;
+	height: 5px;
+	top: 25px;
+	background: brown;
+	position: relative;
+}
+
+.First__second_frame{
+	bottom: 5px;
+	width: 5px;
+	height: 50px;
+	left: 22.5px;
+	background: brown;
+	position: relative;
+}
+
+.First__handle{
+	width: 10px;
+	height: 10px;
+	top: 40px;
+	left: 40px;
+	border-radius: 100%;
+	background: black;
+	position: relative;
+}
+
+/*////////////////////////////////////////////////////////////////////*/
+
+.Second__house__roof{
+	left: 383px;
+	width: 1px;
+	height: 1px;
+	bottom: 546px;
+	border-top: 150px solid white;
+	border-right: 150px solid white;
+	border-left: 150px solid white;
+	border-bottom: 150px solid #ACACC4;
+	background: white;
+	position: absolute;
+}
+
+.Second__house__wall{
+	width: 200px;
+	height: 200px;
+	left: 435px;
+	bottom: 346px;
+	background: #2E3172;
+	position: absolute;
+}
+
+.Second__house__first_window{
+	width: 50px;
+	height: 50px;
+	left: 10px;
+	top: 40px;
+	background: yellow;
+	position: absolute;
+}
+
+.Second__house__second_window{
+	width: 50px;
+	height: 50px;
+	left: 140px;
+	bottom: 110px;
+	background: yellow;
+	position: absolute;
+}
+
+.Second__house__door{
+	width: 60px;
+	height: 80px;
+	left: 70px;
+	top: 120px;
+	background: #6D3517;
+	position: absolute;
+}
+
+
+.Second__first_frame{
+	width: 50px;
+	height: 5px;
+	top: 25px;
+	background: brown;
+	position: absolute;
+}
+
+.Second__second_frame{
+	width: 5px;
+	height: 50px;
+	left: 22.5px;
+	background: brown;
+	position: absolute;
+}
+
+.Second__handle{
+	width: 10px;
+	height: 10px;
+	top: 40px;
+	left: 40px;
+	border-radius: 100%;
+	background: black;
+	position: absolute;
+}
+
+/*////////////////////////////////////////////////////////////////////*/
+
+
+.Third__house__roof{
+	margin-left: 700px;
+	margin-top: -600px;
+	width: 1px;
+	height: 1px;
+	border-top: 150px solid white;
+	border-right: 150px solid white;
+	border-left: 150px solid white;
+	border-bottom: 150px solid #ACACC4;
+	background: white;
+	position: static;
+}
+
+.Third__house__wall{
+	width: 200px;
+	height: 200px;
+	margin-top: 0px;
+	margin-left: 750px;
+	background: #2E3172;
+	position: static;
+	padding: 10px;
+}
+
+.Third__house__first_window{
+	width: 50px;
+	height: 50px;
+	margin-left: 10px;
+	margin-top: 28px;
+	background: yellow;
+	position: static;
+	padding: 1px;
+}
+
+.Third__house__second_window{
+	width: 50px;
+	height: 50px;
+	margin-left: 140px;
+	margin-top: -50px;
+	background: yellow;
+	position: static;
+	padding: 1px;
+}
+
+.Third__house__door{
+	width: 60px;
+	height: 80px;
+	margin-top: 48px;
+	margin-left: 70px;
+	background: #6D3517;
+	position: static;
+}
+
+.Third__first_frame{
+	width: 52px;
+	height: 5px;
+	margin-left: -1px;
+	margin-top: 25px;
+	background: brown;
+	position: static;
+}
+
+.Third__second_frame{
+	width: 5px;
+	height: 52px;
+	margin-top: -31px;
+	margin-left: 22px;
+	background: brown;
+	position: static;
+}
+
+.Third__handle{
+	width: 10px;
+	height: 10px;
+	margin-left: 40px;
+	margin-top: 43px;
+	border-radius: 100%;
+	background: black;
+	position: absolute;
+}
+/*////////////////////////////////////////////////////////////////////*/
+
+.Fourth__house__roof{
+	left: 58px;
+	width: 1px;
+	height: 1px;
+	bottom: 546px;
+	border-top: 150px solid white;
+	border-right: 150px solid white;
+	border-left: 150px solid white;
+	border-bottom: 150px solid #ACACC4;
+	background: white;
+	position: fixed;
+}
+
+.Fourth__house__wall{
+	width: 200px;
+	height: 200px;
+	left: 108px;
+	bottom: 346px;
+	background: #2E3172;
+	position: fixed;
+}
+
+.Fourth__house__first_window{
+	width: 50px;
+	height: 50px;
+	left: 118px;
+	top: 249px;
+	background: yellow;
+	position: fixed;
+}
+
+.Fourth__house__second_window{
+	width: 50px;
+	height: 50px;
+	left: 248px;
+	top: 249px;
+	background: yellow;
+	position: fixed;
+}
+
+.Fourth__house__door{
+	width: 60px;
+	height: 80px;
+	left: 175px;
+	top: 329px;
+	background: #6D3517;
+	position: fixed;
+}
+
+
+.Fourth__first_frame{
+	width: 50px;
+	height: 5px;
+	top: 270px;
+	background: brown;
+	position: fixed;
+}
+
+.Fourth__second_frame{
+	width: 5px;
+	height: 50px;
+	left: 140.5px;
+	background: brown;
+	position: fixed;
+}
+
+.Fourth__second_frame_too{
+	width: 5px;
+	height: 50px;
+	left: 270.5px;
+	background: brown;
+	position: fixed;
+}
+
+.Fourth__handle{
+	width: 10px;
+	height: 10px;
+	top: 370px;
+	left: 208px;
+	border-radius: 100%;
+	background: black;
+	position: fixed;
+}
